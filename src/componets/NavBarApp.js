@@ -1,5 +1,5 @@
 import React from "react";
-import "./NavInshorts.css";
+import "./NavBarApp.css";
 import HamBurgureDrawer from "./HamBurgureDrawer";
 const NavBarApp = ({ setCategory }) => {
   return (
