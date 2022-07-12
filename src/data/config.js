@@ -1,3 +1,3 @@
-const apiKey = <<enter; your api key>>
+const apiKey = <<enter your api key>>
 
 export default apiKey;
